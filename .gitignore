@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Temporary files
+*.db
+*.log
+
+# Packages
+packages/
+*.nupkg
+
+# Others
+*.DS_Store
